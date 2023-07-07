@@ -30,6 +30,6 @@ $ npm run build
 
 This command generates static content into the `build` directory. Go back to the GitHub Application commit & push your changes to the repo and let github build the website (aprox. 15 seconds). The changes should be now visible to everyone.
 
-### Deployment
+### How to contribute as a community member or customer
 
 Coming soon.
