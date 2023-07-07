@@ -1,17 +1,23 @@
-# Website
+# Native-Servers.CustomerWiki
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built by the Native-Servers.com-Team using [Docusaurus 2](https://docusaurus.io/).
 
-### Installation
+### Installation of locally needed software
 
-```
-$ yarn
-```
+You need to download the latest release of [Node.js](https://nodejs.org/en/download). Please make sure to allow Node.js to install Chocolatey for easy installation of needed dependencies.
 
 ### Local Development
 
+Add the Repo to your GitHub Desktop or CLI to fetch the latest Build of the Wiki.
+
+![gif](https://images.pentoxi.de/951acf3f-f46b-4184-bf4f-a884b1cc3021-1688770458.gif)
+-
+
+To locally run the application after fetching run following command
+
+
 ```
-$ yarn start
+$ npm run
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,23 +25,11 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This command generates static content into the `build` directory. Go back to the GitHub Application commit & push your changes to the repo and let github build the website (aprox. 15 seconds). The changes should be now visible to everyone.
 
 ### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Coming soon.
