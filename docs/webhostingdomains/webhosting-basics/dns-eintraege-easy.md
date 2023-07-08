@@ -1,4 +1,8 @@
-DNS Einträge Vereinfacht
+---
+sidebar_position: 1
+---
+
+DNS Einträge (Vereinfacht)
 ==================================================
 
 DNS steht für Domain Name System und ist ein grundlegender Bestandteil des Internets. Es fungiert als eine Art Telefonbuch, das Domainnamen (wie z.B. [www.google.com](http://www.google.com/)) in IP-Adressen übersetzt, die Computer verstehen können. Ein DNS-Eintrag ist eine Anweisung, die in diesem "Telefonbuch" hinterlegt ist und die den Verkehr für eine bestimmte Domain oder einen bestimmten Subdomain-Namen lenkt.

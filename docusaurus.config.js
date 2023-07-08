@@ -73,9 +73,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'vserverrootserversidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'vServer & Rootserver',
           },
           {
             type: 'docSidebar',
@@ -83,7 +83,18 @@ const config = {
             position: 'left',
             label: 'Webhosting & Domains',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'gameserversidebar',
+            position: 'left',
+            label: 'Gameserver',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'dienstleistungensidebar',
+            position: 'left',
+            label: 'Dienstleistungen',
+          },
           {
             href: 'https://github.com/Native-Servers-com/Native-Servers-com.github.io/',
             label: 'Contribute@GitHub',
