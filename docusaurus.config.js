@@ -106,46 +106,98 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Native-Servers.com',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Hoster-Vergleich',
+                to: 'https://native-servers.com/hoster-vergleich/',
+              },
+              {
+                label: 'Über uns',
+                to: 'https://native-servers.com/uber-uns/',
+              },
+              {
+                label: 'Partner',
+                to: 'https://native-servers.com/partner/',
+              },
+              {
+                label: 'Status-Seite',
+                to: 'https://status.native-servers.com/',
+              },
+              {
+                label: 'Support kontaktieren',
+                to: 'https://native-servers.com/customer/submitticket.php',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'vServer, Rootserver & mehr',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Webhosting & Domain',
+                to: 'https://native-servers.com/webhosting-webspace-mieten/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Windows Rootserver mieten',
+                to: 'https://native-servers.com/windows-rootserver-mieten/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Linux Rootserver mieten',
+                to: 'https://native-servers.com/linux-rootserver-mieten/',
+              },
+              {
+                label: 'Intel Core i9 Rootserver mieten',
+                to: 'https://native-servers.com/intel-core-i9-rootserver-mieten/',
+              },
+              {
+                label: 'Intel XEON E5 Rootserver mieten',
+                to: 'https://native-servers.com/intel-xeon-e5-rootserver-mieten/',
+              },
+              {
+                label: 'vServer mieten',
+                to: 'https://native-servers.com/linux-vserver-mieten/',
+              },
+              {
+                label: 'LinuxGSM Server',
+                to: 'https://native-servers.com/linuxgsm-server-mieten/',
+              },
+              {
+                label: 'Managed Services',
+                to: 'https://native-servers.com/managed-hosting-mieten/',
+              },
+              {
+                label: 'Gameserver Einrichtung',
+                to: 'https://native-servers.com/gameserver-einrichtung-bestellen/',
+              },
+              {
+                label: 'Individuelle Dienstleistungen',
+                to: 'https://native-servers.com/individuelle-dienstleistungen/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Weiteres',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Impressum',
+                to: 'https://native-servers.com/impressum/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Datenschutz',
+                to: 'https://native-servers.com/datenschutzerklaerung/',
+              },
+              {
+                label: 'Allgemeine Geschäftsbedingungen',
+                to: 'https://native-servers.com/agb/',
+              },
+              {
+                label: 'Widerruf',
+                to: 'https://native-servers.com/widerruf/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Native-Servers.com`,
       },
       prism: {
         theme: lightCodeTheme,
