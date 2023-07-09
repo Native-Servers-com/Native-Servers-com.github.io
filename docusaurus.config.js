@@ -73,6 +73,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'allgemeinsidebar',
+            position: 'left',
+            label: 'Allgemein',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'vserverrootserversidebar',
             position: 'left',
             label: 'vServer & Rootserver',
@@ -193,6 +199,10 @@ const config = {
               {
                 label: 'Widerruf',
                 to: 'https://native-servers.com/widerruf/',
+              },
+              {
+                label: '🪲 Einen Fehler melden',
+                to: 'https://github.com/Native-Servers-com/Native-Servers-com.github.io/issues',
               },
             ],
           },
