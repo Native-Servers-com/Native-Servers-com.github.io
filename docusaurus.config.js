@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Native-Servers.com - Customer Wiki',
-  tagline: 'Native-Servers.com - Customer Wiki',
+  title: 'Native-Servers.com - Community Wiki',
+  tagline: 'Native-Servers.com - Community Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

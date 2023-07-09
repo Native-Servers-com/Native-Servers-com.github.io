@@ -5,20 +5,20 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Gebaut mit Docusaurus.',
+    title: 'Alles auf einen Blick.',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      Wir nutzen für unser Wiki die Software Docusaurus. Diese vereint mit der Community sorgt für ein übersichtliches und flexibles Wiki.
+      In unserem Wiki findest Du zahlreiche Inhalte zu interessanten Themen, rund um unsere Produkte und Dienstleistungen.
       </>
     ),
   },
   {
-    title: 'Helfen & Geld verdienen.',
+    title: 'Helfen & Guthaben erhalten.',
     Svg: require('@site/static/img/money.svg').default,
     description: (
       <>
-        Hilf' uns, das Wiki mit Leben zu füllen und verdiene dazu noch Coins für Deine nächste Server-Verlängerung. <Link to="/how-to-contribute"> Wie kann ich Inhalte verfassen?</Link>
+        Fülle unser Wiki mit hilfreichen Inhalten und erhalte Guthaben auf dein Kundenkonto!<br /> <Link to="/how-to-contribute"> Wie kann ich Inhalte verfassen?</Link>
       </>
     ),
   },
@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('@site/static/img/markdown.svg').default,
     description: (
       <>
-        Alle Tutorials werden mit Markdown geschrieben. Eine Auszeichnungssprache, die im gesamten Internet verwendet wird.
+        Für die Erstellung unserer Wiki-Seiten kommt Markdown zum Einsatz. Eine Auszeichnungssprache, die im gesamten Internet verwendet wird.
       </>
     ),
   },

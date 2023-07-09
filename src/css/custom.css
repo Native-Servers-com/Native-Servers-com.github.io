@@ -28,3 +28,27 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://native-servers.com/wp-content/uploads/2023/03/native-servers-datacenter-headbg..jpg) !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+ 
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #1A1B2E;
+  border-top: 3px solid #cc0b2b;
+}
+
+.footer--dark a:hover {
+  color: #61CE70;
+  text-decoration: none;
+}
+
+.button--lg {
+  margin: 3px;
+}
