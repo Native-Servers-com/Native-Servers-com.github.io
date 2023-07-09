@@ -21,6 +21,13 @@ function HomepageHeader() {
             Website 🌍
           </Link>
         </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://forum.native-servers.com/">
+            Forum 🚀
+          </Link>
+        </div>
       </div>
     </header>
   );

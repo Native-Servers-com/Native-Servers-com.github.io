@@ -1,35 +1,33 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Gebaut mit Docusaurus.',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Wir nutzen für unser Wiki die Software Docusaurus. Diese vereint mit der Community sorgt für ein übersichtliches und flexibles Wiki.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Helfen & Geld verdienen.',
+    Svg: require('@site/static/img/money.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Hilf' uns, das Wiki mit Leben zu füllen und verdiene dazu noch Coins für Deine nächste Server-Verlängerung. <Link to="/how-to-contribute"> Wie kann ich Inhalte verfassen?</Link>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Eine Sprache. Markdown.',
+    Svg: require('@site/static/img/markdown.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Alle Tutorials werden mit Markdown geschrieben. Eine Auszeichnungssprache, die im gesamten Internet verwendet wird.
       </>
     ),
   },
