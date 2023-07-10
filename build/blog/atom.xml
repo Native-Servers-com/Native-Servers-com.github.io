@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Native-Servers-com.github.io/blog</id>
-    <title>Native-Servers.com - Customer Wiki Blog</title>
+    <title>Native-Servers.com - Community Wiki Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Native-Servers-com.github.io/blog"/>
-    <subtitle>Native-Servers.com - Customer Wiki Blog</subtitle>
+    <subtitle>Native-Servers.com - Community Wiki Blog</subtitle>
     <icon>https://Native-Servers-com.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
