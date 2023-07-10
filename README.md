@@ -1,5 +1,8 @@
 # Native-Servers.CustomerWiki
 
+[Wie kann ich Inhalte verfassen?](https://community.native-servers.com/how-to-contribute)
+
+
 This website is built by the Native-Servers.com-Team using [Docusaurus 2](https://docusaurus.io/).
 
 ### Installation of locally needed software
@@ -30,6 +33,4 @@ $ npm run build
 
 This command generates static content into the `build` directory. Go back to the GitHub Application commit & push your changes to the repo and let github build the website (aprox. 15 seconds). The changes should be now visible to everyone.
 
-### How to contribute as a community member or customer
 
-Coming soon.
