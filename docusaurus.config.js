@@ -33,6 +33,10 @@ const config = {
     locales: ['de'],
   },
 
+  plugins: [
+      'docusaurus-plugin-matomo',
+    ],
+
   presets: [
     [
       'classic',
@@ -108,6 +112,13 @@ const config = {
           },
         ],
       },
+      matomo: {
+        matomoUrl: 'https://analytics.native-servers.com/',
+        siteId: '2',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
+      },  
+
       footer: {
         style: 'dark',
         links: [
