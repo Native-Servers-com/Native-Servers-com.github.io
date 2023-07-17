@@ -2,6 +2,11 @@
 sidebar_position: 3
 ---
 
+
+<head>
+  <meta name="MariaDB installieren Linux" content="mariadb, datenbank, database, linux, installieren"></meta>
+</head>
+
 MariaDB installieren
 ======================
 

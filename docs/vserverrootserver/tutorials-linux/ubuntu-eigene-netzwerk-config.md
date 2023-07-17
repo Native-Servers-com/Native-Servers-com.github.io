@@ -1,7 +1,9 @@
 ---
 sidebar_position: 4
 ---
-
+<head>
+  <meta name="Ubuntu eigene Netzwerkkonfiguration" content="ubuntu, netzwerk, network, cloudinit"></meta>
+</head>
 Ubuntu | Eigene Netzwerkkonfiguration nutzen
 ================================================
 

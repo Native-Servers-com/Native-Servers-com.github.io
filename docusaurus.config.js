@@ -64,8 +64,10 @@ const config = {
   ],
 
   themeConfig:
+  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'server, rootserver, server, webhosting, gameserver, domain, native servers, root server, vps', content: 'server, rootserver, server, webhosting, gameserver, domain, native servers, root server, vps'}],
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

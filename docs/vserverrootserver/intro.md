@@ -1,4 +1,5 @@
 ---
+id: vserver-rootserver
 sidebar_position: 1
 title: Was ist eigentlich ein Server?
 sidebar_label: Was ist eigentlich ein Server?

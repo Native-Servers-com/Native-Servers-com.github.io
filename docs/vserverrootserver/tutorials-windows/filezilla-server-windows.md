@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+<head>
+  <meta name="FileZilla-Server installieren" content="filezilla, ftp, windows, anleitung, tutorial"></meta>
+</head>
+
 FileZilla-Server installieren
 ===================================
 

@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+<head>
+  <meta name="DNS Einträge (Vereinfacht)" content="webhosting, plesk, dns"></meta>
+</head>
+
 DNS Einträge (Vereinfacht)
 ==================================================
 

@@ -1,7 +1,9 @@
 ---
 sidebar_position: 2
 ---
-
+<head>
+  <meta name="WindowsGSM Gameserver installieren" content="windowsgsm, windows, gsm, gameserver"></meta>
+</head>
 
 WindowsGSM Gameserver installieren
 ======================================

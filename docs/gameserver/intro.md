@@ -1,4 +1,5 @@
 ---
+id: gameserver
 sidebar_position: 1
 title: Was ist eigentlich ein Gameserver?
 sidebar_label: Was ist eigentlich ein Gameserver?

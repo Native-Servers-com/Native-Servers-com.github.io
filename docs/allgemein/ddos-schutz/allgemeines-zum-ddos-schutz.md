@@ -1,3 +1,7 @@
+<head>
+  <meta name="Allgemeines zum DDoS-Schutz" content="ddos, ddos protection, ddos schutz, ffm, frankfurt, combahton"></meta>
+</head>
+
 Allgemeines zum DDoS-Schutz
 =================================
 

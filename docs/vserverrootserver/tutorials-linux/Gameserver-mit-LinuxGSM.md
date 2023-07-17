@@ -1,6 +1,11 @@
 ---
 sidebar_position: 1
 ---
+
+<head>
+  <meta name="Gameserver mit LinuxGSM" content="linuxgsm, gsm, linux, gameserver"></meta>
+</head>
+
 Gameserver mit LinuxGSM
 ======================================
 

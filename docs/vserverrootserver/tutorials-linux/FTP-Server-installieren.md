@@ -2,6 +2,10 @@
 sidebar_position: 2
 ---
 
+<head>
+  <meta name="ProFTPD auf einem Linux-Server" content="ftp, proftp, linux"></meta>
+</head>
+
 ProFTPD auf einem Linux-Server
 ===============================
 

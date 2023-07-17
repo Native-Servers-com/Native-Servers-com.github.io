@@ -1,3 +1,8 @@
+<head>
+  <meta name="DNS Einträge (Erweitert)" content="webhosting, plesk, dns"></meta>
+</head>
+
+
 DNS Einträge (Erweitert)
 ======================================
 
