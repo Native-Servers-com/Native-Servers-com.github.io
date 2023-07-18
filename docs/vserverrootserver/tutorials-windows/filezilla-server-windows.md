@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+title: FileZilla-Server installieren
+description: FileZilla-Server installieren unter Windows
+keywords: [filezilla, windows, server, filtzilla ftp, ftp server, ftp, ftp installieren]
 ---
-
-<head>
-  <meta name="FileZilla-Server installieren" content="filezilla, ftp, windows, anleitung, tutorial"></meta>
-</head>
 
 FileZilla-Server installieren
 ===================================

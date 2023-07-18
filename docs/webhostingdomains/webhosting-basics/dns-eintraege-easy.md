@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+title: DNS Einträge (Vereinfacht)
+description: DNS Einträge einrichten
+keywords: [dns, dns einträge, dns eintrag, dns entry, a, aaaa, cname, mx, ]
 ---
-
-<head>
-  <meta name="DNS Einträge (Vereinfacht)" content="webhosting, plesk, dns"></meta>
-</head>
 
 DNS Einträge (Vereinfacht)
 ==================================================
@@ -33,13 +32,6 @@ Beispiel: `meinebeispielwebsite.de.    IN    AAAA    2001:db8::1`
 Dieser Eintrag wird verwendet, um einen Domainnamen auf einen anderen Domainnamen zu verweisen, anstatt direkt auf eine IP-Adresse. Wenn Sie beispielsweise "[www.meinebeispielwebsite.de](http://www.meinebeispielwebsite.de/)" auf "meinebeispielwebsite.de" verweisen möchten, könnte Ihr CNAME-Eintrag so aussehen:
 
 Beispiel: `www.meinebeispielwebsite.de.    IN    CNAME    meinebeispielwebsite.de.`
-
-**MX-Eintrag (Mail Exchange Record)**
--------------------------------------
-
-Dieser Eintrag gibt an, welcher Mailserver für das Empfangen von E-Mails für Ihre Domain zuständig ist. Jeder MX-Eintrag hat eine Priorität, die angibt, welcher Server zuerst kontaktiert werden sollte. Ein Beispiel für einen MX-Eintrag könnte so aussehen:
-
-Beispiel: `meinebeispielwebsite.de.    IN    MX    10 mail.meinebeispielwebsite.de.`
 
 **MX-Eintrag (Mail Exchange Record)**
 -------------------------------------

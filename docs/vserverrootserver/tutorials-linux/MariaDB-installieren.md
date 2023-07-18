@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
+title: MariaDB installieren
+description: MariaDB installieren unter Linux
+keywords: [MariaDB, mysql, datenbank, mysql installation, mariadb installation]
 ---
 
 
-<head>
-  <meta name="MariaDB installieren Linux" content="mariadb, datenbank, database, linux, installieren"></meta>
-</head>
 
 MariaDB installieren
 ======================

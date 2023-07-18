@@ -1,10 +1,9 @@
 ---
 sidebar_position: 2
+title: ProFTPD auf einem Linux-Server
+description: ProFTPD Server unter Linux installieren
+keywords: [ProFTPD, ftp, ftp server, proftpd installieren, ftp server, ftp installieren, ftp server einrichten]
 ---
-
-<head>
-  <meta name="ProFTPD auf einem Linux-Server" content="ftp, proftp, linux"></meta>
-</head>
 
 ProFTPD auf einem Linux-Server
 ===============================

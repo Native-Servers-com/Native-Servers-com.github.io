@@ -1,6 +1,9 @@
-<head>
-  <meta name="DNS Einträge (Erweitert)" content="webhosting, plesk, dns"></meta>
-</head>
+---
+sidebar_position: 2
+title: DNS Einträge (Erweitert)
+description: DNS Einträge einrichten
+keywords: [dns, dns einträge, dns eintrag, dns entry, a, aaaa, cname, mx, ]
+---
 
 
 DNS Einträge (Erweitert)

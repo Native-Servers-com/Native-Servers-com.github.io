@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
+title: Gameserver mit LinuxGSM
+description: LinuxGSM Installieren
+keywords: [linuxgsm, gsm, linux, gameserver, hosting]
 ---
 
-<head>
-  <meta name="Gameserver mit LinuxGSM" content="linuxgsm, gsm, linux, gameserver"></meta>
-</head>
 
 Gameserver mit LinuxGSM
 ======================================

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
+title: WindowsGSM Gameserver installieren
+description: WindowsGSM Gameserver installieren unter Windows
+keywords: [WindowsGSM, gsm, gameserver, server, hosting]
 ---
-<head>
-  <meta name="WindowsGSM Gameserver installieren" content="windowsgsm, windows, gsm, gameserver"></meta>
-</head>
 
 WindowsGSM Gameserver installieren
 ======================================

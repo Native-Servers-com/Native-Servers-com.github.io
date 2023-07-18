@@ -1,6 +1,8 @@
-<head>
-  <meta name="Allgemeines zum DDoS-Schutz" content="ddos, ddos protection, ddos schutz, ffm, frankfurt, combahton"></meta>
-</head>
+---
+title: Allgemeines zum DDoS-Schutz
+description: Informationen zum DDoS Schutz von Native-Servers.com
+keywords: [ddos, ddos protection, ffm, frankfurt, combahton]
+---
 
 Allgemeines zum DDoS-Schutz
 =================================
