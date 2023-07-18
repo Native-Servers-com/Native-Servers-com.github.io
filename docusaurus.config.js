@@ -3,9 +3,24 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+module.exports = {
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
+      },
+    ],
+  ],
+};
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
   title: 'Native-Servers.com - Community Wiki',
   tagline: 'Native-Servers.com - Community Wiki',
   favicon: 'img/favicon.ico',
