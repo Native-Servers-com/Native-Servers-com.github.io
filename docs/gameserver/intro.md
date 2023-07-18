@@ -3,6 +3,9 @@ id: gameserver
 sidebar_position: 1
 title: Was ist eigentlich ein Gameserver?
 sidebar_label: Was ist eigentlich ein Gameserver?
+slug: /gameserver
+description: Was ist ein Gameserver? Einfach und verständlich, erklärt was ein Gameserver ist.
+keywords: [gameserver, spiele, games, server, computer, minecraft]
 ---
 
 Ein Gameserver ist ein spezieller Server, der entwickelt wurde, um Multiplayer-Videospiele zu hosten und den Spielern die Möglichkeit zu geben, miteinander zu interagieren. Er dient als zentrale Plattform für Spieler, um gemeinsam in virtuellen Welten zu spielen, sich zu verbinden und ihre Gaming-Erfahrungen zu teilen. Dieser Artikel erklärt ausführlich, was ein Gameserver ist, wie er funktioniert und welche Aufgaben er erfüllt.

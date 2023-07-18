@@ -3,6 +3,9 @@ id: vserver-rootserver
 sidebar_position: 1
 title: Was ist eigentlich ein Server?
 sidebar_label: Was ist eigentlich ein Server?
+slug: /vserver-rootserver
+description: Was ist ein Server? Kurz und knapp erklärt, was ein Server ist und wo die wesentlichen Unterschiede in der Virtualisierung sind.
+keywords: [server, vserver, rootserver, virtualisierung, kvm, docker, openvz, lxc, dedizierte server]
 ---
 
 

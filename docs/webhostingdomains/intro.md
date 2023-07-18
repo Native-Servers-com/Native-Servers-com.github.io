@@ -1,10 +1,12 @@
 ---
 id: webhosting-domains
 sidebar_position: 1
+title: Was ist eigentlich eine Domain? 
+sidebar_label: Was ist eigentlich eine Domain? 
+slug: /webhosting-domains
+description: Was ist eigentlich eine Domain? Erklärung, was eine Domain ist, kurz und knapp, leicht verständlich.
+keywords: [domain, subdomain, tld, ip-adresse, webserver, domain registrieren]
 ---
-
-Was ist eigentlich eine Domain? 
-================================
 
 Eine Domain dient dazu, deinen Namen oder dein Projekt im Internet darzustellen und global zugänglich zu machen. Mit einer Domain kannst du beispielsweise eine Webseite verfügbar machen oder sie auf einen Game- oder TeamSpeak 3-Server verweisen, um diesen unter einem leicht zu merkenden Namen online zugänglich zu machen.
 
