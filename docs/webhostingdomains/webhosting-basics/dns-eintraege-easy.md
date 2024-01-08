@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: DNS Einträge (Vereinfacht)
 description: DNS Einträge einrichten
 keywords: [dns, dns einträge, dns eintrag, dns entry, a, aaaa, cname, mx, ]

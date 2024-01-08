@@ -106,6 +106,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'dedicatedsidebar',
+            position: 'left',
+            label: 'Dedicated Server',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'webdomainsidebar',
             position: 'left',
             label: 'Webhosting & Domains',
@@ -143,18 +149,6 @@ const config = {
             title: 'Native-Servers.com',
             items: [
               {
-                label: 'Hoster-Vergleich',
-                to: 'https://native-servers.com/hoster-vergleich/',
-              },
-              {
-                label: 'Über uns',
-                to: 'https://native-servers.com/uber-uns/',
-              },
-              {
-                label: 'Partner',
-                to: 'https://native-servers.com/partner/',
-              },
-              {
                 label: 'Status-Seite',
                 to: 'https://status.native-servers.com/',
               },
@@ -169,43 +163,39 @@ const config = {
             items: [
               {
                 label: 'Webhosting & Domain',
-                to: 'https://native-servers.com/webhosting-webspace-mieten/',
+                to: 'https://native-servers.com/webhosting-webspace-mieten',
+              },
+              {
+                label: 'Dedicated Server',
+                to: 'https://native-servers.com/dedicated-server',
               },
               {
                 label: 'Windows Rootserver mieten',
-                to: 'https://native-servers.com/windows-rootserver-mieten/',
+                to: 'https://native-servers.com/windows-rootserver-mieten',
               },
               {
                 label: 'Linux Rootserver mieten',
-                to: 'https://native-servers.com/linux-rootserver-mieten/',
+                to: 'https://native-servers.com/linux-rootserver-mieten',
               },
               {
-                label: 'Intel Core i9 Rootserver mieten',
-                to: 'https://native-servers.com/intel-core-i9-rootserver-mieten/',
-              },
-              {
-                label: 'Intel XEON E5 Rootserver mieten',
-                to: 'https://native-servers.com/intel-xeon-e5-rootserver-mieten/',
+                label: 'Rootserver konfigurieren',
+                to: 'https://native-servers.com/rootserver-mieten',
               },
               {
                 label: 'vServer mieten',
-                to: 'https://native-servers.com/linux-vserver-mieten/',
+                to: 'https://native-servers.com/linux-vserver-mieten',
               },
               {
                 label: 'LinuxGSM Server',
-                to: 'https://native-servers.com/linuxgsm-server-mieten/',
-              },
-              {
-                label: 'Managed Services',
-                to: 'https://native-servers.com/managed-hosting-mieten/',
+                to: 'https://native-servers.com/customer/store/gameserver/linux-gsm-gameserver',
               },
               {
                 label: 'Gameserver Einrichtung',
-                to: 'https://native-servers.com/gameserver-einrichtung-bestellen/',
+                to: 'https://native-servers.com/einrichtungsservice',
               },
               {
-                label: 'Individuelle Dienstleistungen',
-                to: 'https://native-servers.com/individuelle-dienstleistungen/',
+                label: 'Gameserver Probleme beheben',
+                to: 'https://native-servers.com/gameserver-probleme-beheben',
               },
             ],
           },
