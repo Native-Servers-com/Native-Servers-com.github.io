@@ -1,51 +1,42 @@
 ---
-id: webhosting-domains
+id: webhosting-webspace
 sidebar_position: 1
-title: Was ist eigentlich eine Domain? 
-sidebar_label: Was ist eigentlich eine Domain? 
-slug: /webhosting-domains
-description: Was ist eigentlich eine Domain? Erklärung, was eine Domain ist, kurz und knapp, leicht verständlich.
+title: Was ist Webhosting?
+sidebar_label: Was ist Webhosting?
+slug: /webhosting-webspace
+description: Was ist eigentlich Webhosting? Erklärung, was eine Domain ist, kurz und knapp, leicht verständlich.
 keywords: [domain, subdomain, tld, ip-adresse, webserver, domain registrieren]
 ---
 
-Eine Domain dient dazu, deinen Namen oder dein Projekt im Internet darzustellen und global zugänglich zu machen. Mit einer Domain kannst du beispielsweise eine Webseite verfügbar machen oder sie auf einen Game- oder TeamSpeak 3-Server verweisen, um diesen unter einem leicht zu merkenden Namen online zugänglich zu machen. Die Wahl eines geeigneten Domainnamens und die richtige Verwaltung sind entscheidend, um deine Online-Präsenz effektiv zu gestalten.
+# Webspace und Webhosting
 
-Subdomains 
------------
+**Webspace** oder **Webhosting** bezeichnet den Dienst, der es Personen oder Organisationen ermöglicht, Inhalte wie Webseiten, Dateien, Anwendungen oder Datenbanken im Internet zu veröffentlichen und zugänglich zu machen. Es ist ein essenzieller Bestandteil für die Präsenz einer Website im World Wide Web. Webhosting-Provider bieten die erforderliche Infrastruktur und Dienste, um diese Inhalte auf Servern zu speichern und für die Online-Nutzung verfügbar zu machen.
 
-Eine Subdomain stellt eine sekundäre Domain innerhalb deiner Hauptdomain dar und kann jederzeit kostenlos für deine bestehende Domain erstellt werden. Dies erfolgt über die DNS-Einstellungen und eine Subdomain könnte beispielsweise wie folgt aussehen: server.deinedomain.de
+### **Was ist Webspace?**
 
-In diesem Fall ist "server" deine Subdomain und "deinedomain.de" der Name der Hauptdomain. Normalerweise verweist eine Subdomain auf eine andere Adresse als die Hauptdomain. So könntest du beispielsweise deine Webseite unter deinedomain.de zugänglich machen, während du mit server.deinedomain.de auf deinen Game- oder einen anderen Server zugreifen kannst.
+Webspace bezieht sich auf den Speicherplatz auf einem Webserver, der für die Speicherung von Website-Dateien, Datenbanken, Multimedia-Inhalten und anderen Ressourcen verwendet wird, die für den Betrieb einer Website notwendig sind. Dieser Speicherplatz wird von Webhosting-Providern in Form von Serverkapazität bereitgestellt.
 
-Domains und IP-Adressen 
-------------------------
+### **Arten von Webhosting-Diensten**
 
-Eine Domain muss separat angemietet werden und ist nicht automatisch bei einem Gameserver, Rootserver, vServer oder Voiceserver enthalten, anders als eine IP-Adresse. Eine Domain unterscheidet sich optisch von einer IP-Adresse: Während eine IP-Adresse aus Zahlen besteht, wie zum Beispiel 140.82.118.3, besitzt eine Domain einen eigentlichen Namen und eine zugehörige Domainendung, etwa fivem.net. In diesem Fall ist "fivem" der Domainname und ".net" die Domainendung. Es gibt natürlich viele weitere Domainendungen wie .com oder .de.
+Webhosting-Dienste werden in verschiedenen Formen angeboten, um den unterschiedlichen Anforderungen und Budgets der Benutzer gerecht zu werden:
 
-Domainendungen (TLD)
-------------------------
+- **Shared Hosting:** Bei Shared Hosting teilen sich mehrere Websites denselben Server und dessen Ressourcen wie Speicher, CPU und Bandbreite. Es ist kostengünstig und für kleine bis mittlere Websites geeignet.
 
-Domainendungen, auch Top-Level-Domains (TLDs) genannt, dienen dazu, den Zweck oder die geografische Zuordnung einer Domain zu kennzeichnen. Die am häufigsten verwendeten TLDs sind zum Beispiel .com (für kommerzielle Zwecke), .org (für Organisationen), .net (für Netzwerkinfrastruktur), und .de (für Deutschland). Jede TLD hat bestimmte Registrierungsrichtlinien und kann unterschiedliche Anforderungen an den Erwerb einer Domain stellen.
+- **Virtuelles Hosting (VPS):** Virtual Private Server (VPS) bieten dedizierte virtuelle Umgebungen für Websites. Hierbei werden Ressourcen wie CPU, Speicher und Bandbreite in isolierten Umgebungen geteilt.
 
-Registrierung und Verwaltung
-------------------------
+- **Dedicated Hosting:** Dedicated Server bieten eine physische Servermaschine exklusiv für eine einzelne Website oder Anwendung. Dies gewährleistet maximale Leistung und Kontrolle, ist jedoch auch kostspieliger.
 
-Um eine Domain zu erwerben, musst du diese bei einem Hosting-Anbieter wie Native-Servers.com bestellen. Diese Anbieter bieten Dienste zur Domainregistrierung an und überprüfen die Verfügbarkeit des gewünschten Domainnamens. In der Regel zahlst du eine jährliche Gebühr, um die Domain zu mieten. Es ist wichtig, dass du die Domain regelmäßig erneuerst, um deren Besitz und Kontrolle aufrechtzuerhalten.
+- **Cloud Hosting:** Cloud-basiertes Hosting nutzt die Ressourcen mehrerer verbundener Server, um Flexibilität und Skalierbarkeit zu bieten. Es ermöglicht das Bezahlen nur für die tatsächlich genutzten Ressourcen.
 
-Domainnamen und Markenrecht
-------------------------
+### **Webhosting Funktionen**
 
-Bei der Auswahl eines Domainnamens solltest du darauf achten, keine bestehenden Markenrechte zu verletzen. Es ist ratsam, vor der Registrierung einer Domain eine Markenrecherche durchzuführen, um mögliche Konflikte zu vermeiden. Markeninhaber können rechtliche Schritte einleiten, wenn eine Domain ihre geschützten Marken verletzt.
+- **Domain-Registrierung und Verwaltung:** Viele Webhosting-Dienste bieten die Möglichkeit, Domains zu registrieren und zu verwalten oder unterstützen bei der Domainumleitung.
 
-DNS (Domain Name System)
-------------------------
+- **E-Mail-Hosting:** In allen Webhosting-Paketen von Native Servers sind E-Mail-Dienste enthalten, die es Dir ermöglichen, E-Mails mit deinen eigenen Domain-basierten Adressen zu senden und zu empfangen.
 
-Das Domain Name System (DNS) ist ein System, das die Zuordnung von Domainnamen zu IP-Adressen ermöglicht. Wenn jemand eine Domain in den Webbrowser eingibt, sendet der Browser eine Anfrage an den DNS-Server, um die entsprechende IP-Adresse der Domain zu erhalten. Dadurch wird die Verbindung zur gewünschten Webseite oder Dienst hergestellt. DNS ermöglicht auch die Konfiguration von Subdomains, Weiterleitungen und anderen DNS-Einstellungen.
+- **Sicherheit und Backup:** Webhosting-Dienste von Native Servers bieten Sicherheitsfunktionen wie SSL-Zertifikate, Firewalls und regelmäßige Backups, um deine Daten zu schützen.
 
-Domain-Hosting
-------------------------
-
-Um eine Webseite oder andere Online-Dienste mit deiner Domain zu verbinden, benötigst du einen Hosting-Dienst (Webspace/Webhosting). Hierfüt stellt die Native Servers mit seinen Webhosting-Angeboten einen entsprechenden Speicherplatz auf seinen Servern zur Verfügung, auf dem du deine Webseite oder Dateien ablegen und über die Verwaltungsoberfläche Plesk verwalten kannst. Durch die Konfiguration der DNS-Einstellungen kannst du deine Domain mit dem Webhosting-Server verbinden und deine Inhalte online zugänglich machen.
+- **Technischer Support:** Der technische Support von Native Servers hilft Dir schnell und zuverlässig bei Fragen oder Problemen.
 
 
-> **Hier kannst Du eine eigene Domain mieten:** [**Domain Bestellen**](https://native-servers.com/customer/cart.php?a=add&domain=register)
+
